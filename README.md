@@ -49,8 +49,8 @@ This project walks through key investing rationale that helps inform potential i
 * "A Beginner's Guide to Investing" (PDF) - Final report submission with all visualizations and explanations
 * "Explore Your Portfolio Options" (tableau workbook) - Interactive workbook for you to explore how you may build your portfolio
 
-## "A Beginner's Guide to Personal Investing" Table of Contents
-1. Why Invest? Impact of inflation
-2. The benefits of compounding
+## Table of Contents: "A Beginner's Guide to Personal Investing"
+1. ...
+2. ...
 3. ...
 
