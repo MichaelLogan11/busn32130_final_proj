@@ -27,13 +27,13 @@ This project walks through key investing rationale that helps inform potential i
         * Vanguard Real Estate Index Fund ETF (VNQ) - *proxy for real estate market*
         * Grayscale Bitcoin Trust (GBTC) - *proxy for cryptocurrency*
    * Timeframe: 2020-01-01 to 2025-01-01
-   * Source: Yahoo Finance
+   * Source: [Yahoo Finance](https://finance.yahoo.com/)
    * Retrieval Method: jupyter notebook
 
 2. **Inflation Data:**
    * Data: Monthly Consumer Price Index (CPI) data
    * Timeframe: 2020-01-01 to 2025-01-01
-   * Source: U.S. Bureau of Labor Statistics via FRED®
+   * Source: [U.S. Bureau of Labor Statistics via FRED®](https://fred.stlouisfed.org/series/CPIAUCSL)
    * Retrieval Method: excel export 
 
 ## Reposity Layout
