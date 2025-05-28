@@ -11,8 +11,9 @@ but we thought it would be easier to not only tell you about the benefits of inv
 show you with several visualizations that illustrate its importance.
 
 ## Deliverables
-"A Beginner's Guide to Personal Investing" is a PDF report found above that walks through several questions related to beginning to invest. It is inteded to not only explain the important features of investing, but to also give visual context that provides another way to comprehend complex topics. It is especially helpful for those brand new to investing, and also visual learners.</b>
-"Explore Your Portfolio Options" is a tableau workbook that allows you to test different allocations of asset classes to see how the expected return and risk changes based on historic timelines. 
+**"A Beginner's Guide to Personal Investing"** is a PDF report found above that walks through several questions related to beginning to invest. It is inteded to not only explain the important features of investing, but to also give visual context that provides another way to comprehend complex topics. It is especially helpful for those brand new to investing, and also visual learners.
+
+**"Explore Your Portfolio Options"** is a tableau workbook that allows you to test different allocations of asset classes to see how the expected return and risk changes based on historic timelines. 
 
 ## Data Sources
 1. **Equity Data:**
