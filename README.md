@@ -19,15 +19,15 @@ show you with several visualizations that illustrate its importance.
       * Vanguard Real Estate Index Fund ETF (VNQ) - *proxy for real estate market*
       * Grayscale Bitcoin Trust (GBTC) - *proxy for cryptocurrency*
 
-   Timeframe: 2020-01-01 to 2025-01-01
-   Source: Yahoo Finance
-   Retrieval Method: jupyter notebook
+   Timeframe: 2020-01-01 to 2025-01-01<br>  
+   Source: Yahoo Finance<br>  
+   Retrieval Method: jupyter notebook<br>  
 
 2. **Inflation Data:**
-   Data: Monthly Consumer Price Index (CPI) data 
-   Timeframe: 2020-01-01 to 2025-01-01
-   Source: U.S. Bureau of Labor Statistics via FRED®
-   Retrieval Method: excel export
+   Data: Monthly Consumer Price Index (CPI) data<br>  
+   Timeframe: 2020-01-01 to 2025-01-01<br>  
+   Source: U.S. Bureau of Labor Statistics via FRED®<br>  
+   Retrieval Method: excel export<br>  
 
 ## Reposity Layout
 * `Folder` Data
