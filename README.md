@@ -10,6 +10,10 @@ These questions can be answered through countless google searches or by our frie
 but we thought it would be easier to not only tell you about the benefits of investing, but to also
 show you with several visualizations that illustrate its importance.
 
+## Deliverables
+"A Beginner's Guide to Personal Investing" is a PDF report found above that walks through several questions related to beginning to invest. It is inteded to not only explain the important features of investing, but to also give visual context that provides another way to comprehend complex topics. It is especially helpful for those brand new to investing, and also visual learners.</b>
+"Explore Your Portfolio Options" is a tableau workbook that allows you to test different allocations of asset classes to see how the expected return and risk changes based on historic timelines. 
+
 ## Data Sources
 1. **Equity Data:**
    * Data: Daily price information for tradeable assets
@@ -19,15 +23,15 @@ show you with several visualizations that illustrate its importance.
       * SPDR Gold Trust (GLD) - *proxy for commodities market*
       * Vanguard Real Estate Index Fund ETF (VNQ) - *proxy for real estate market*
       * Grayscale Bitcoin Trust (GBTC) - *proxy for cryptocurrency*
-   * Timeframe: 2020-01-01 to 2025-01-01<br>  
-   * Source: Yahoo Finance<br>  
-   * Retrieval Method: jupyter notebook<br>  
+   * Timeframe: 2020-01-01 to 2025-01-01
+   * Source: Yahoo Finance
+   * Retrieval Method: jupyter notebook
 
 2. **Inflation Data:**
-   * Data: Monthly Consumer Price Index (CPI) data<br>  
-   * Timeframe: 2020-01-01 to 2025-01-01<br>  
-   * Source: U.S. Bureau of Labor Statistics via FRED®<br>  
-   * Retrieval Method: excel export<br>  
+   * Data: Monthly Consumer Price Index (CPI) data
+   * Timeframe: 2020-01-01 to 2025-01-01
+   * Source: U.S. Bureau of Labor Statistics via FRED®
+   * Retrieval Method: excel export 
 
 ## Reposity Layout
 * `Folder` Data
@@ -39,6 +43,7 @@ show you with several visualizations that illustrate its importance.
   * "Python Graphs" (jupyter notebook) - Visualizations for Sections #, #, #
   * "Tableau Graphs" (tableau workbook) - Dashboard
 * "A Beginner's Guide to Investing" (PDF) - Final report submission with all visualizations and explanations
+* "Explore Your Portfolio Options" (tableau workbook) - Interactive workbook for you to explore how you may build your portfolio
 
 ## Sections with Accompanying Visulations
 1. Why Invest? Impact of inflation
