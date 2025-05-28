@@ -11,13 +11,23 @@ but we thought it would be easier to not only tell you about the benefits of inv
 show you with several visualizations that illustrate its importance.
 
 ## Data Sources
-1. **Equity Data**:
-   Daily price information for the following tradeable assets
+1. **Equity Data:**
+   Data: Daily price information for the following tradeable assets
       * SPDR S&P 500 ETF Trust (SPY) - *proxy for S&P 500 (stocks)*
       * Vanguard Total Bond Market Index Fund ETF (BND) - *proxy for US bond market*
       * SPDR Gold Trust (GLD) - *proxy for commodities market*
       * Vanguard Real Estate Index Fund ETF (VNQ) - *proxy for real estate market*
       * Grayscale Bitcoin Trust (GBTC) - *proxy for cryptocurrency*
+
+   Timeframe: 2020-01-01 to 2025-01-01
+   Source: Yahoo Finance
+   Retrieval Method: jupyter notebook
+
+2. **Inflation Data:**
+   Data: Monthly Consumer Price Index (CPI) data 
+   Timeframe: 2020-01-01 to 2025-01-01
+   Source: U.S. Bureau of Labor Statistics via FRED®
+   Retrieval Method: excel export
 
 ## Reposity Layout
 * `Folder` Data
