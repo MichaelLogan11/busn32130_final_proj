@@ -21,7 +21,6 @@ This project walks through key investing rationale that helps inform potential i
 ## Data Sources
 1. **Equity Data:**
    * Data: Daily price information for tradeable assets
-   * Tradeable assets:
       * SPDR S&P 500 ETF Trust (SPY) - *proxy for S&P 500 (stocks)*
       * Vanguard Total Bond Market Index Fund ETF (BND) - *proxy for US bond market*
       * SPDR Gold Trust (GLD) - *proxy for commodities market*
