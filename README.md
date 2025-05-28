@@ -13,11 +13,11 @@ show you with several visualizations that illustrate its importance.
 ## Data Sources
 1. **Equity Data**:
    Daily price information for the following tradeable assets
-      * SPDR S&P 500 ETF Trust (SPY) : *proxy for S&P 500 (stocks)*
-      * Vanguard Total Bond Market Index Fund ETF (BND) : *proxy for US bond market*
-      * SPDR Gold Trust (GLD) : *proxy for commodities market*
-      * Vanguard Real Estate Index Fund ETF (VNQ) : *proxy for real estate market*
-      * Grayscale Bitcoin Trust (GBTC) : *proxy for cryptocurrency*
+      * SPDR S&P 500 ETF Trust (SPY) - *proxy for S&P 500 (stocks)*
+      * Vanguard Total Bond Market Index Fund ETF (BND) - *proxy for US bond market*
+      * SPDR Gold Trust (GLD) - *proxy for commodities market*
+      * Vanguard Real Estate Index Fund ETF (VNQ) - *proxy for real estate market*
+      * Grayscale Bitcoin Trust (GBTC) - *proxy for cryptocurrency*
 
 ## Reposity Layout
 * `Folder` Data
