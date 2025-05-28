@@ -1,4 +1,4 @@
-# Beginner's Guide to Personal Investing: Visual Overvier
+# A Beginner's Guide to Personal Investing
 
 ## Overview
 When breaking into the world of personal investing, there are a few questions that always need answering:
