@@ -37,11 +37,11 @@ This project walks through key investing rationale that helps inform potential i
    * Retrieval Method: excel export 
 
 ## Reposity Layout
-* `Folder` Data
+* `Folder` Data Files
   * "Equity_Data_Download" (jupyter notebook) - Python script to download data
   * "Equity_Data" (csv) - Daily closing prices of several equities
   * "Inflation_Data" (csv) - Monthly Consumer Price Index (CPI) data
-* `Folder` Vizualizations
+* `Folder` Vizualizations for Report
   * "Excel Graphs" (excel worksheet) - Visualizations for Sections #, #, #
   * "Python Graphs" (jupyter notebook) - Visualizations for Sections #, #, #
   * "Tableau Graphs" (tableau workbook) - Dashboard
