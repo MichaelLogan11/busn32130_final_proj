@@ -12,22 +12,22 @@ show you with several visualizations that illustrate its importance.
 
 ## Data Sources
 1. **Equity Data:**
-   Data: Daily price information for the following tradeable assets
+   * Data: Daily price information for tradeable assets
+   * Tradeable assets:
       * SPDR S&P 500 ETF Trust (SPY) - *proxy for S&P 500 (stocks)*
       * Vanguard Total Bond Market Index Fund ETF (BND) - *proxy for US bond market*
       * SPDR Gold Trust (GLD) - *proxy for commodities market*
       * Vanguard Real Estate Index Fund ETF (VNQ) - *proxy for real estate market*
       * Grayscale Bitcoin Trust (GBTC) - *proxy for cryptocurrency*
-
-   Timeframe: 2020-01-01 to 2025-01-01<br>  
-   Source: Yahoo Finance<br>  
-   Retrieval Method: jupyter notebook<br>  
+   * Timeframe: 2020-01-01 to 2025-01-01<br>  
+   * Source: Yahoo Finance<br>  
+   * Retrieval Method: jupyter notebook<br>  
 
 2. **Inflation Data:**
-   Data: Monthly Consumer Price Index (CPI) data<br>  
-   Timeframe: 2020-01-01 to 2025-01-01<br>  
-   Source: U.S. Bureau of Labor Statistics via FRED®<br>  
-   Retrieval Method: excel export<br>  
+   * Data: Monthly Consumer Price Index (CPI) data<br>  
+   * Timeframe: 2020-01-01 to 2025-01-01<br>  
+   * Source: U.S. Bureau of Labor Statistics via FRED®<br>  
+   * Retrieval Method: excel export<br>  
 
 ## Reposity Layout
 * `Folder` Data
