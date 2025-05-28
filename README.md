@@ -5,9 +5,9 @@ Team members: Gonzalo Tenorio, Michael Logan
 
 ## Overview
 When breaking into the world of personal investing, there are a few questions that always need answering:
-1. Why invest? Why not just keep my cash under my mattress like the good ole days?
-2. If I do decide to invest, when should I start?
-3. After I start, what can I trust to not lose my hard-earned money?
+1. Why should I invest at all? Wouldn't it be safer to just keep my cash under the mattress like the good old days?
+2. If I do decide to invest, when's the right time to start?
+3. Once I'm in, how do I know where to put my money so I don't lose it all?
 
 While these questions can be answered through countless Google searches or even a quick chat with ChatGPT, we wanted to make the investing journey more approachable. Instead of just reading about the benefits of investing, we created interactive visualizations that let new investors explore the data for themselves: showing, not just telling, why investing matters.
 
