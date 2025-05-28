@@ -10,6 +10,15 @@ These questions can be answered through countless google searches or by our frie
 but we thought it would be easier to not only tell you about the benefits of investing, but to also
 show you with several visualizations that illustrate its importance.
 
+## Data Sources
+1. **Equity Data**:
+   Daily price information for the following tradeable assets
+      * SPDR S&P 500 ETF Trust (SPY) : *proxy for S&P 500 (stocks)*
+      * Vanguard Total Bond Market Index Fund ETF (BND) : *proxy for US bond market*
+      * SPDR Gold Trust (GLD) : *proxy for commodities market*
+      * Vanguard Real Estate Index Fund ETF (VNQ) : *proxy for real estate market*
+      * Grayscale Bitcoin Trust (GBTC) : *proxy for cryptocurrency*
+
 ## Reposity Layout
 * `Folder` Data
   * "Equity_Data_Download" (jupyter notebook) - Python script to download data
