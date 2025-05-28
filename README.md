@@ -11,11 +11,11 @@ but we thought it would be easier to not only tell you about the benefits of inv
 show you with several visualizations that illustrate its importance.
 
 ## Reposity Layout
-* [Folder] Data
+* `Folder` Data
   * "Equity_Data_Download" (jupyter notebook) - Python script to download data
   * "Equity_Data" (csv) - Daily closing prices of several equities
   * "Inflation_Data" (csv) - Monthly Consumer Price Index (CPI) data
-* [Folder] Vizualizations
+* `Folder` Vizualizations
   * "Excel Graphs" (excel worksheet) - Visualizations for Sections #, #, #
   * "Python Graphs" (jupyter notebook) - Visualizations for Sections #, #, #
   * "Tableau Graphs" (tableau workbook) - Dashboard
