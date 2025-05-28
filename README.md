@@ -11,7 +11,7 @@ When breaking into the world of personal investing, there are a few questions th
 
 While these questions can be answered through countless Google searches or even a quick chat with ChatGPT, we wanted to make the investing journey more approachable. Instead of just reading about the benefits of investing, we created interactive visualizations that let new investors explore the data for themselves: showing, not just telling, why investing matters.
 
-This project walks through key investing rationale that helps inform potential investors. It is inteded to not only explain the important features of investing, but to also give visual context that provides another way to comprehend complex topics. It is especially helpful for those brand new to investing, and also visual learners.
+This project walks through key investing rationale that helps inform potential investors. It is inteded to not only explain the important features of investing, but to also give visual context that provides another way to comprehend complex topics. It is especially helpful for those brand new to investing and visual learners.
 
 ## Deliverables
 **"A Beginner's Guide to Personal Investing"** is a PDF report found above that walks through several questions and insights related to personal investing. *[Note: see "Table of Contents" below for more information]* 
