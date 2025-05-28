@@ -21,11 +21,11 @@ This project walks through key investing rationale that helps inform potential i
 ## Data Sources
 1. **Equity Data:**
    * Data: Daily price information for tradeable assets
-      * SPDR S&P 500 ETF Trust (SPY) - *proxy for S&P 500 (stocks)*
-      * Vanguard Total Bond Market Index Fund ETF (BND) - *proxy for US bond market*
-      * SPDR Gold Trust (GLD) - *proxy for commodities market*
-      * Vanguard Real Estate Index Fund ETF (VNQ) - *proxy for real estate market*
-      * Grayscale Bitcoin Trust (GBTC) - *proxy for cryptocurrency*
+        * SPDR S&P 500 ETF Trust (SPY) - *proxy for S&P 500 (stocks)*
+        * Vanguard Total Bond Market Index Fund ETF (BND) - *proxy for US bond market*
+        * SPDR Gold Trust (GLD) - *proxy for commodities market*
+        * Vanguard Real Estate Index Fund ETF (VNQ) - *proxy for real estate market*
+        * Grayscale Bitcoin Trust (GBTC) - *proxy for cryptocurrency*
    * Timeframe: 2020-01-01 to 2025-01-01
    * Source: Yahoo Finance
    * Retrieval Method: jupyter notebook
