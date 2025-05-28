@@ -16,7 +16,7 @@ This project walks through key investing rationale that helps inform potential i
 ## Deliverables
 **"A Beginner's Guide to Personal Investing"** is a PDF report found above that walks through several questions and insights related to personal investing. *[Note: see "Table of Contents" below for more information]* 
 
-**"Explore Your Portfolio Options"** is a tableau workbook that allows you to test different allocations of asset classes to see how the expected return and risk changes based on historic timelines. 
+**"Explore Your Portfolio Options"** is a tableau workbook that allows you to test different allocations of asset classes to see how the portfolio risk/return profile changes based on historic timelines. 
 
 ## Data Sources
 1. **Equity Data:**
