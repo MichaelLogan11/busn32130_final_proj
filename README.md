@@ -2,10 +2,8 @@
 This project was created by University of Chicago MBA students as a class project for Data Visualization for Decision-Making (BUSN32130), taught by Professor [Lara Kattan](https://www.chicagobooth.edu/faculty/directory/k/lara-kattan)
 
 Team members:
-
-    Gonzalo Tenorio
-  
-    Michael Logan
+* Gonzalo Tenorio
+* Michael Logan
 
 ## Overview
 When breaking into the world of personal investing, there are a few questions that always need answering:
