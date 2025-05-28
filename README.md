@@ -9,7 +9,7 @@ When breaking into the world of personal investing, there are a few questions th
 2. If I do decide to invest, when should I start?
 3. After I start, what can I trust to not lose my hard-earned money?
 
-These questions can be answered through countless google searches or by our friend ChatGPT, but we thought it would be easier to not only tell you about the benefits of investing, but to also show you with several visualizations that illustrate its importance.
+While these questions can be answered through countless Google searches or even a quick chat with ChatGPT, we wanted to make the investing journey more approachable. Instead of just reading about the benefits of investing, we created interactive visualizations that let new investors explore the data for themselves: showing, not just telling, why investing matters.
 
 This project walks through key investing rationale that helps inform potential investors. It is inteded to not only explain the important features of investing, but to also give visual context that provides another way to comprehend complex topics. It is especially helpful for those brand new to investing, and also visual learners.
 
