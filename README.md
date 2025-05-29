@@ -49,7 +49,14 @@ This project walks through key investing rationale that helps inform potential i
 * "Explore Your Portfolio Options" (tableau workbook) - Interactive workbook for you to explore how you may build your portfolio
 
 ## Table of Contents: "A Beginner's Guide to Personal Investing"
-1. ...
-2. ...
-3. ...
+* Introuction
+* Definitions
+* Section 1: Why invest in the first place?
+* Section 2: When is the right time to start investing?
+* Section 3: What about everything out of my control?
+* Section 4: How smooth is the ride?
+* Section 5: Why take any risk at all?
+* Section 6: How should I pick what to buy and how much?
+* Section 7: Try It Yourself – Building a Portfolio
+* Conclusion: Investing with Confidence
 
