@@ -53,9 +53,9 @@ We used 2 primary data sources:
 ### Data validation
 **Equity Data**
 
-Equity data was retrieved with only closing prices, so we calculated daily returns (the percentage change in price from one day to the next) using Python. Refer to the "Equity_Data_Download" file in the "Data Files" folder for details.
+Equity data was retrieved with only closing prices, so we calculated daily returns (the percentage change in price from one day to the next) using Python or Excel. Refer to the "Equity_Data_Download" file in the "Data Files" folder for details.
 
-We then spot-checked various dates in the dataset and plotted the price history of each asset to verify that the overall shape and trends appeared accurate.
+We then spot-checked various dates in the dataset and plotted the price history of each asset to verify that the overall shape and trends appeared accurate. Additionally, we calculated SPY yearly returns and compared them with [Yahoo Finance Yearly Historic Returns](https://finance.yahoo.com/quote/SPY/performance/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAIRildlPZJFMbluMnDgA-AulwkGT5irlw1iAzw1r-xcGJ85ZVsxgBqYE5vbRJhZ4a2C4u8b1JULHvQ3mF1NZkzcicC2yHtvKm-k8OASMQ8NnfAaWL0zq0ZKGrfoUqxk0sbBlaPBo7eD2JlP8G_nOvGTHP2mCo3Q7mr9aWslVJKTl) for consistency. 
 
 **Inflation Data**
 
@@ -82,7 +82,7 @@ While some of the visualizations used were rather simple, the LLMs were used in 
 * "Explore Your Portfolio Options" (tableau workbook) - Interactive workbook for you to explore how you may build your portfolio
 
 ## Table of Contents: "A Beginner's Guide to Personal Investing"
-* Introuction
+* Introduction
 * Definitions
 * Section 1: Why invest in the first place?
 * Section 2: When is the right time to start investing?
