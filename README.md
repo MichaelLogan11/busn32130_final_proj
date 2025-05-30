@@ -75,9 +75,10 @@ While some of the visualizations used were rather simple, LLMs were used in the 
   * "equity_data" (csv) - Daily closing prices of several equities
   * "inflation_data" (csv) - Monthly Consumer Price Index (CPI) data
 * `Folder` Vizualizations for Report
-  * "Excel Graphs" (excel worksheet) - Visualizations for Sections 1, 2, 4, 6
-  * "Python Graphs" (jupyter notebooks) - Visualizations for Sections 3, 4, 5
-  * "Tableau Graphs" (tableau workbook) - Visualization for Section 4
+  * "Excel Graphs" (Excel worksheet) - Visualizations for Sections 1, 2, 4, 6
+  * "Python Graphs" (Jupyter notebooks) - Visualizations for Sections 3, 4, 5
+      * *Note: the notebooks with plotly graphs need to be downloaded to view graphs*
+  * "Tableau Graphs" (Tableau workbook) - Visualization for Section 4
 * "A Beginner's Guide to Investing" (PDF) - Final report submission with all visualizations and explanations
 * "Explore Your Portfolio Options" (tableau workbook) - Interactive workbook for you to explore how you may build your portfolio
 
