@@ -20,16 +20,16 @@ This project walks through key investing rationale that helps inform potential i
 
 ## Process
 ### Motivation
-The idea for this project was to simplify how to learn about concepts related to personal investing. Many people are visual learners, so the idea to focus on the visual apect pushed us to decide that this would should be our final project.
+This project began with the goal of simplifying how people learn about personal investing, using visualizations as the primary tool. Since many people are visual learners, we felt that a visual approach would make complex financial concepts more accessible and engaging.
 
-We especially wanted this to be useful to an audience of beginning investors, and wrote the guide in a very casual manner to reflect that personal investing doesn't have to be intimidating. Specifically, we answered many questions we had as we were deciding whether or not to invest our money when we were novices. We wish we had these visualizations to help us understand these topics.
+We aimed to make the guide especially helpful for beginner investors. To reflect that personal investing doesn’t have to be intimidating, we adopted a casual and approachable tone. Many of the questions we addressed were ones we had ourselves when we were first considering investing. We created the visualizations we wish we had back then to make these topics more accessible and easier to understand.
 
 ### Assumptions/Limitations
-The key assumption applied throughout the project is that the stock proxies we selected are adequate representations of the assets they represent. There are countless tradeable assets - we chose 5 to be a representative sample for simplicity. 
+A key assumption throughout this project is that the stock proxies we selected adequately represent their respective asset classes. While there are countless tradeable assets, we chose five as a representative sample to keep things simple and focused.
 
-For example, we use the tradable asset SPY, an ETF, to represent the entire stock market as it tracks the S&P 500. For all proxies, see "Data Sources" below. While we recognize this is not 100% accurate, we think for our purposes it is appropriate to assign one single tradeable asset to each respective asset class's visualizations for simplification. 
+For example, we use SPY (a widely traded ETF that tracks the S&P 500) to represent the overall U.S. stock market. Each asset class is paired with a single tradeable proxy for visualization purposes. While we acknowledge this approach isn’t perfectly accurate, we believe it’s a reasonable simplification for the goals of this project. A full list of proxies can be found in the "Data Sources" section below.
 
-Another limitation was time. The S&P 500 (SPY) can be traced back decades, whereas new asset classes, like cryptocurrency, is in its relative infancy. That did not affect much of the report, but is worth noting.
+Another limitation is time coverage. SPY and similar long-standing assets offer decades of data, while newer asset classes like cryptocurrency have relatively short histories. This didn’t significantly impact our analysis, but it’s an important consideration.
 
 ### Data Sources
 We used 2 primary data sources: 
@@ -53,7 +53,7 @@ We used 2 primary data sources:
 ### Data validation
 **Equity Data**
 
-Equity data was retrieved with only closing prices, so we calculated daily returns (the percentage change in price from one day to the next) using Python or Excel. Refer to the "Equity_Data_Download" file in the "Data Files" folder for details.
+Equity data was retrieved with open, close, high, and low prices, so we calculated daily returns (the percentage change in price from one day to the next) based on each day's closing price using Python or Excel. Refer to the "Equity_Data_Download" file in the "Data Files" folder for details.
 
 We then spot-checked various dates in the dataset and plotted the price history of each asset to verify that the overall shape and trends appeared accurate. Additionally, we calculated SPY yearly returns and compared them with [Yahoo Finance Yearly Historic Returns](https://finance.yahoo.com/quote/SPY/performance/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAIRildlPZJFMbluMnDgA-AulwkGT5irlw1iAzw1r-xcGJ85ZVsxgBqYE5vbRJhZ4a2C4u8b1JULHvQ3mF1NZkzcicC2yHtvKm-k8OASMQ8NnfAaWL0zq0ZKGrfoUqxk0sbBlaPBo7eD2JlP8G_nOvGTHP2mCo3Q7mr9aWslVJKTl) for consistency. 
 
@@ -67,7 +67,7 @@ While we think this guide provides a helpful foundation for learning, given more
 We also understand that we used a very small sample of assets, so we would have liked to expand that selection to provide more detail on what assets are available for purchase.
 
 ### Use of ChatGPT and LLMs
-While some of the visualizations used were rather simple, the LLMs were used in the creation of some graphics, specifically those in Python. Particularly, ChatGPT was used when adding a complex feature, like multiple charts on one plot, overlaying text callouts, or shading appropriate portions. The use of LLMs is noted at the top of each Jupyter Notebook in the "Visualizations" folder. 
+While some of the visualizations used were rather simple, LLMs were used in the creation of some more detailed graphics, specifically those in Python. Particularly, ChatGPT was used when adding a complex feature, like multiple charts on one plot, overlaying text callouts, or shading appropriate portions. The use of LLMs is noted at the top of each Jupyter Notebook in the "Visualizations" folder. 
 
 ## Reposity Layout
 * `Folder` Data Files
