@@ -35,7 +35,7 @@ Another limitation is time coverage. SPY and similar long-standing assets offer 
 We used 2 primary data sources: 
 1. **Equity Data:**
    * Data: Daily price information for tradeable assets
-        * SPDR S&P 500 ETF Trust (SPY) - *proxy for S&P 500 (stocks)*
+        * SPDR S&P 500 ETF Trust (SPY) - *proxy for S&P 500 (US stock market)*
         * Vanguard Total Bond Market Index Fund ETF (BND) - *proxy for US bond market*
         * SPDR Gold Trust (GLD) - *proxy for commodities market*
         * Vanguard Real Estate Index Fund ETF (VNQ) - *proxy for real estate market*
@@ -62,12 +62,14 @@ We then spot-checked various dates in the dataset and plotted the price history 
 We were confident in the quality of the inflation data, as it was directly downloaded from FRED. However, since the equity data is daily and the inflation data is monthly, merging the two required careful alignment. We ensured that each equity entry was accurately matched to the correct month and year from the inflation data.
 
 ### Future work
-While we think this guide provides a helpful foundation for learning, given more time we would have liked to provide a more forward looking perspectives on how modifying a portfolio would impact risk and returns. More specifically, adding a "projection" of asset prices for future years that the beginning investor could use to help build there portfolio right now would be useful. 
+While we think this guide provides a helpful foundation for learning, given more time, we would have liked to provide a more forward looking perspectives on how modifying a portfolio would impact risk and returns. More specifically, adding a "projection" of asset prices for future years that a beginning investor could use to help build their portfolio today would have been useful. 
 
 We also understand that we used a very small sample of assets, so we would have liked to expand that selection to provide more detail on what assets are available for purchase.
 
 ### Use of ChatGPT and LLMs
-While some of the visualizations used were rather simple, LLMs were used in the creation of some more detailed graphics, specifically those in Python. Particularly, ChatGPT was used when adding a complex feature, like multiple charts on one plot, overlaying text callouts, or shading appropriate portions. The use of LLMs is noted at the top of each Jupyter Notebook in the "Visualizations" folder. 
+While some of the visualizations used were rather simple, LLMs were used in the creation of some more detailed graphics, specifically those in Python. Particularly, ChatGPT was used when adding a complex feature, like multiple charts on one plot, overlaying text callouts, or shading appropriate portions. The use of LLMs is noted at the top of each Jupyter Notebook in the "Visualizations" folder.
+
+Additionally, ChatGPT was used as an aid to create and troubleshoot the "Explore Your Portfolio Options" Dashboard. It aided in the creation of calculated fields such as cummulative returns, portfolio value or rolling volatilities using functions not learned in class.
 
 ## Reposity Layout
 * `Folder` Data Files
